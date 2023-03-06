@@ -3,9 +3,12 @@
 ### I build Web Applications with Python (Django & Flask).
 ### I'm very passionate about Data Science 📊 and Artificial Intelligence 👨‍💻: NLP and Computer Vision in particular.
 ### I like turning machine learning papers 📝 into code ‍💻 & I enjoy doing research to pursue my interests in hot AI AI 🧠 topics.
+
+### Feel free to contact me: 
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
 <!--
 **h3lmii/h3lmii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
 Here are some ideas to get you started:
 
