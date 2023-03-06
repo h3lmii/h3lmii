@@ -6,7 +6,7 @@
 
 ## Feel free to contact me: 
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin.com?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 
 <img src="{https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white}" />
