@@ -5,8 +5,7 @@
 ### I like turning machine learning papers 📝 into code ‍💻 & I enjoy doing research to pursue my interests in hot AI AI 🧠 topics.
 
 ## Feel free to contact me: 
-![image]({[BadgeURLHere](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)})
-
+![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
 
 <!--
 **h3lmii/h3lmii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
