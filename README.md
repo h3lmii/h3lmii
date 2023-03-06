@@ -5,8 +5,8 @@
 ### I like turning machine learning papers 📝 into code ‍💻 & I enjoy doing research to pursue my interests in hot AI AI 🧠 topics.
 
 ## Feel free to contact me: 
- [![General badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+ [![General badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)]
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(linkedin.com)
 ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 
 <img src="{https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white}" />
