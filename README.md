@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### I’m Helmi Massoussi a Computer Science Engineering 💼 student  at INSAT Tunisia. 
-### I build Web Applications & APIs with Python (Django & Flask).
+### I build Web Applications & REST APIs with Python (Django & Flask).
 ### I'm very passionate about Data Science 📊 and Artificial Intelligence 👨‍💻: NLP and Computer Vision in particular.
 ### I like turning machine learning papers 📝 into code ‍💻 & I enjoy doing research to pursue my interests in hot AI AI 🧠 topics.
 
